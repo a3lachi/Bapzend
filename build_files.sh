@@ -8,7 +8,7 @@ echo '------------------------------------------------------------------------'
 echo '------------------------------------------------------------------------'
 echo '------------------------------------------------------------------------'
 pip install psycopg2-binary
-
+mkdir static 
 pip install django-cors-headers
 pip install djangorestframework-simplejwt
 pip install -r requirements.txt
